@@ -1,0 +1,23 @@
+# Data files
+*.csv
+*.pkl
+*.jpg
+*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Models
+models/
+*.pkl
+
+# Environment
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
